@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316172585409",
+    "firebase_url": "https://amebo-d2634.firebaseio.com",
+    "project_id": "amebo-d2634",
+    "storage_bucket": "amebo-d2634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316172585409:android:ff50fcf88947038e2f8740",
+        "android_client_info": {
+          "package_name": "com.example.amebo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316172585409-gtamh2a8usn4a4s2j930cgtf1uuldfuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9PR8PBpJLZF82Y1bEX-yhr75UexhMYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316172585409-gtamh2a8usn4a4s2j930cgtf1uuldfuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
